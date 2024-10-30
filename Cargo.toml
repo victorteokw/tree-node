@@ -1,6 +1,8 @@
 [package]
 name = "tree-node"
+description = "A tree node implementation in unsafe Rust."
 version = "0.0.1"
 edition = "2021"
+license = "MIT"
 
 [dependencies]
